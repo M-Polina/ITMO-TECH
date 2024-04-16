@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mpolina.banks.test.BanksTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2023-02-24T17:30:17" hostname="DESKTOP-VU441K8" time="0.059">
+  <properties/>
+  <testcase name="subscribeMessageHandlerRecivesNotifications()" classname="com.mpolina.banks.test.BanksTest" time="0.031"/>
+  <testcase name="transferMoneyCorrectAmountOfMoneyInAccounts()" classname="com.mpolina.banks.test.BanksTest" time="0.003"/>
+  <testcase name="updateInfoConditionsConditionsChangedAmmountOfMoneyCorrrect()" classname="com.mpolina.banks.test.BanksTest" time="0.005"/>
+  <testcase name="transferMoneyBetweenBanksCorrectAmountOfMoneyInAccounts()" classname="com.mpolina.banks.test.BanksTest" time="0.001"/>
+  <testcase name="withdrawMoneyCorrectAmountOfMoneyInAccount()" classname="com.mpolina.banks.test.BanksTest" time="0.001"/>
+  <testcase name="afterMothInterastRateCreatesCorrectAmountOfMoneyInAccount()" classname="com.mpolina.banks.test.BanksTest" time="0.006"/>
+  <testcase name="rollBackSimpleCorrectAmountOfMoneyInAccounts()" classname="com.mpolina.banks.test.BanksTest" time="0.002"/>
+  <testcase name="addMoneyMoneyAreInAccount()" classname="com.mpolina.banks.test.BanksTest" time="0.001"/>
+  <testcase name="rollBackTransferBetweenBanksCorrectAmountOfMoneyInAccounts()" classname="com.mpolina.banks.test.BanksTest" time="0.001"/>
+  <testcase name="rollBackCorrectAmountOfMoneyInAccounts()" classname="com.mpolina.banks.test.BanksTest" time="0.001"/>
+  <system-out><![CDATA[1000.0
+30.0
+0.001
+1030.0
+1030.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
